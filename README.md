@@ -26,15 +26,6 @@ This project is a simulation of a simple, real-time **ultrasonic security system
 
 4. The result is displayed on a **16x2 LCD** in real time.
 
----
-
-## 🧪 Simulation Demo
-
-📷 **Circuit Diagram**  
-![Simulation Screenshot](images/circuit.png)
-
-🎞️ **Video Demo**  
-[Watch the simulation in action](#) *(Insert your video link here)*
 
 ---
 
@@ -47,5 +38,5 @@ ultrasonic-security-system/
 ├── images/
 │   └── circuit.png                  # Circuit diagram or simulation screenshot
 ├── docs/
-│   └── system_overview.pdf         # (Optional) Project documentation
+│   └── system_overview.pdf         #  Project documentation
 └── README.md
